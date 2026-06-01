@@ -22,6 +22,8 @@ The project includes:
 
 ![A/B Testing Dashboard](https://github.com/fl1rry/ab-test-with-significance/blob/1144844384d9da2199023f245ee09c12ee5e8f1a/A_B%20Test.png)
 
+![Full Tableau Dashboard:](https://public.tableau.com/app/profile/oleksandra.yakovenko/viz/ABTestingToolwithSignificance/Dashboard3)
+
 ## Metrics
 
 The analysis covers four conversion metrics:
@@ -116,31 +118,7 @@ Available dashboard filters:
 
 ## Output Files
 
-The notebook generates Tableau-ready CSV files:
-
-```text
-tableau_total_significance.csv
-tableau_segments_significance.csv
-tableau_ab_testing_significance.csv
-```
-
-## Project Structure
-
-```text
-.
-├── ab_testing_analysis.ipynb
-├── dashboard.png
-└── README.md
-```
-
-## How to Run the Project
-
-1. Open `ab_testing_analysis.ipynb` in Google Colab.
-2. Authenticate your Google account when prompted.
-3. Run all notebook cells.
-4. Download the generated CSV files.
-5. Connect the CSV files to Tableau.
-6. Build or refresh the dashboard.
+The notebook generates Tableau-ready CSV files, which were later used to produce an interactive Tableau Dashboard.
 
 ## Tools and Skills
 
