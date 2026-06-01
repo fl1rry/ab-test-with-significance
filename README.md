@@ -133,7 +133,3 @@ The notebook generates Tableau-ready CSV files, which were later used to produce
 * Tableau
 * dashboard design
 * data visualization
-
-## Author
-
-**Oleksandra Yakovenko**
