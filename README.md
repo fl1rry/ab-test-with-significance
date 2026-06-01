@@ -22,7 +22,7 @@ The project includes:
 
 ![A/B Testing Dashboard](https://github.com/fl1rry/ab-test-with-significance/blob/1144844384d9da2199023f245ee09c12ee5e8f1a/A_B%20Test.png)
 
-[Full Tableau Dashboard:](https://public.tableau.com/app/profile/oleksandra.yakovenko/viz/ABTestingToolwithSignificance/Dashboard3)
+[Full Tableau Dashboard](https://public.tableau.com/app/profile/oleksandra.yakovenko/viz/ABTestingToolwithSignificance/Dashboard3)
 
 ## Metrics
 
